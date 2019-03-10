@@ -1,18 +1,8 @@
 ---
 layout: page
 title: About
+show_on_side_bar: true
 ---
 
-<p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-## About BlackDoc Theme
-
-Some relevant information about this project:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
+Asinkxcoswt set out on his journey in software development since 2014. He took part, as a system analyst, in development and maintainance of a billing system (JavaEE) in a telecomunication company. He also involved deeply in technical design and development of a marketplace system using Spring platform. He is best at Java releated technology and design concepts.
 

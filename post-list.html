@@ -1,0 +1,11 @@
+---
+layout: page
+title: See all posts
+show_on_side_bar: true
+---
+
+<ol>
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ol>

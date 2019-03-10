@@ -33,7 +33,7 @@ html {
 
 body {
   color: #848482;
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 
 h1,
@@ -93,7 +93,7 @@ b {
 code {
   color: #993030;
   white-space: pre-wrap;
-  background-color: #222;
+  background-color: #DDD;
 }
 
 pre {

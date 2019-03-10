@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Theme Styles
+show_on_side_bar: false
 ---
 
 ## Full Style Test
