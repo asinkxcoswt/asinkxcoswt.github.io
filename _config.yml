@@ -6,11 +6,11 @@ highlighter:      rouge
 title:            Asinkxcoswt
 tagline:          Java Spring Software Design
 description:      "Software Development Journey"
-url:              https://asinkxcoswt.github.io/
+url:              "https://asinkxcoswt.github.io"
 baseurl:          "/"
 author:
   name:           Asinkxcoswt
-  url:            https://github.com/asinkxcoswt
+  url:            "https://github.com/asinkxcoswt"
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -25,4 +25,4 @@ plugins:
 version:            2.0.1
 
 github:
-  repo:             https://github.com/asinkxcoswt/asinkxcoswt.github.io
+  repo:             "https://github.com/asinkxcoswt/asinkxcoswt.github.io"
