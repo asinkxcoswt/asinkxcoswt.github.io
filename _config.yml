@@ -7,10 +7,7 @@ title:            Asinkxcoswt
 tagline:          Java Spring Software Design
 description:      "Software Development Journey"
 url:              https://asinkxcoswt.github.io/
-baseurl:          /
-                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
-                  # This will apply to all pages in your Jekyll site.
-
+baseurl:          "/"
 author:
   name:           Asinkxcoswt
   url:            https://github.com/asinkxcoswt
