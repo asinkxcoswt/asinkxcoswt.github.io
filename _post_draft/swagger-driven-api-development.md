@@ -1,0 +1,6 @@
+- create swagger spec yml
+- create mock api for FE using the created swagger yml
+- FE start development
+- BE generate controller from the created swagger
+- project structre
+- 

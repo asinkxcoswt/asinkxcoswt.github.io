@@ -1,0 +1,14 @@
+- third party apis connector
+    - security
+    - logging
+    - caching
+
+- authentication
+- autorization
+- logging
+- test
+- module
+- naming
+- error translation
+- validation
+- 
