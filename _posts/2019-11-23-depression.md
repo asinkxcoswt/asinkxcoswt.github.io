@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Debate-Driven Voting System - ระบบโหวตที่น่าจะแก้ปัญหาการเมืองไทยได้"
+title:  "แค่คนซึมเศร้า อย่ายอมแพ้นะ"
 categories: Life
 image: /public/images/cat_sad.gif
 ---
