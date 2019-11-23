@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "แค่คนซึมเศร้า อย่ายอมแพ้นะ"
+title:  "แด่คนซึมเศร้า อย่ายอมแพ้นะ"
 categories: Life
 image: /public/images/cat_sad.gif
 ---
