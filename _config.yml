@@ -1,30 +1,30 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# markdown:         kramdown
+# highlighter:      rouge
 
 # Setup
-title:            Asinkxcoswt
-tagline:          Java Spring Software Design
-description:      "Software Development Journey"
-url:              "https://asinkxcoswt.github.io"
-base_url:          "/"
-author:
-  name:           Asinkxcoswt
-  url:            "https://github.com/asinkxcoswt"
+# title:            Asinkxcoswt
+# tagline:          Java Spring Software Design
+# description:      "Software Development Journey"
+# url:              "https://asinkxcoswt.github.io"
+# base_url:          "/"
+# author:
+#   name:           Asinkxcoswt
+#   url:            "https://github.com/asinkxcoswt"
 
-paginate:         5
+# paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/my-jekyll-site/page:num' if you want to move your index pages
 
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
+# plugins:
+#   - jekyll-feed
+#   - jekyll-gist
+#   - jekyll-paginate
 
 # Custom vars
-version:            2.0.1
+# version:            2.0.1
 
-github:
-  repo:             "https://github.com/asinkxcoswt/asinkxcoswt.github.io"
+# github:
+#   repo:             "https://github.com/asinkxcoswt/asinkxcoswt.github.io"
 
-facebook_app_id: 2167474249964899
+# facebook_app_id: 2167474249964899
